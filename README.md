@@ -1,2 +1,2 @@
-# CX-Tooling-Tasks
-Task list for ongoing tooling for CX
+# CX-Tooling-Status
+Status list for ongoing tooling for CX
